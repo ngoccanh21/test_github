@@ -11,8 +11,8 @@
 <body>
     <a href="test.php">
         <?php
-    echo 'welocme to php my project demo 1';
-    ?>
+        echo 'welocme to php my project demo';
+        ?>
     </a>
 </body>
 
